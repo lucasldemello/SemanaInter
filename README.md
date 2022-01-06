@@ -2,6 +2,16 @@
 
 Em parceria com o banco Inter a Digital Inovation One (DIO) lançou a SEMANA FRONT-END INTER (entre os dias 06/12 a 09/12), onde o objetivo era criar um clone da interface do banco Inter, com a possibilidade de cadastrar usuários, realizar login e fazer e receber pagamentos via PIX. 
 
+## Screenshots
+<p align="center">
+    <h3 align="center">Login</h3>
+    <img src="login.png" alt="Login" />
+</p>
+<p align="center">
+    <h3 align="center">Dashboard</h3>
+    <img src="dashboard.png" alt="Dashboard" />
+</p>
+
 ## ℹ️ Como executar o backend 
 
 ```bash
